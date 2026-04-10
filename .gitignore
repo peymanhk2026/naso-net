@@ -1,0 +1,31 @@
+# Virtual environments
+vpi_env/
+vpi_miles/
+__pycache__/
+*.pyc
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Large data (not tracked in git)
+VPI case videos/
+extracted_frames/
+extracted_sequences/
+
+# Word documents
+*.docx
+*.zip
+
+# Temporary scripts
+_check_*.py
+_insert_tables.py
+recover_exp6.py
+recover_exp6_log.txt
+
+# DLLs
+*.dll
